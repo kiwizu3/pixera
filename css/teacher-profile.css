@@ -1,5 +1,5 @@
 /*
-    Template Name    : skilify
+    Template Name    : pixera
 	Description		 : HTML5 Template
     Version          : 1.0
 /*
@@ -1066,10 +1066,10 @@ button {
   .teacher-profile-banner {
     padding-bottom: 50px;
   }
-  .skilify-info-sec {
+  .pixera-info-sec {
     padding: 0;
   }
-  .skilify-info-points {
+  .pixera-info-points {
     top: -50px;
   }
   /** spacing Classes Css End **/
@@ -1198,11 +1198,11 @@ button {
   }
   /** Common section CSS End  **/
   /** Home v3 Css Start **/
-  .skilify-info-point img {
+  .pixera-info-point img {
     height: 35px;
     width: 35px;
   }
-  .skilify-info-point .card-title {
+  .pixera-info-point .card-title {
     font-size: 18px;
   }
   /** Home v3 Css End **/

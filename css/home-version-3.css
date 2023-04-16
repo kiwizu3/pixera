@@ -1,5 +1,5 @@
 /*
-    Template Name    : skilify
+    Template Name    : pixera
 	Description		 : HTML5 Template
     Version          : 1.0
 /*
@@ -11,7 +11,7 @@
 1. Common CSS
 2. Header CSS
 3. Hero Banner version2 CSS
-4. Skilify Info Card css
+4. Pixera Info Card css
 5. categories Cards Sec CSS
 6. Multi Course cards Sec CSS
 7. Know About Platform v2 Sec CSS
@@ -774,24 +774,24 @@ button {
 
 /*
 ================================================
-4. Skilify Info Card css
+4. Pixera Info Card css
 ================================================
 */
-.skilify-info-sec {
+.pixera-info-sec {
   padding-top: 40px;
 }
 
-.skilify-info-points {
+.pixera-info-points {
   top: -80px;
   box-shadow: 0 0 30px -15px rgba(0, 0, 0, 0.4);
 }
 
-.skilify-info-point-img {
+.pixera-info-point-img {
   border: 2px solid #33333D;
   border-radius: 50%;
 }
 
-.skilify-info-point-img img {
+.pixera-info-point-img img {
   height: 50px;
   width: 50px;
   border-radius: 50%;
@@ -800,11 +800,11 @@ button {
   background-color: #33333D;
 }
 
-.info-point-primary .skilify-info-point-img {
+.info-point-primary .pixera-info-point-img {
   border: 2px solid #F56962;
 }
 
-.info-point-primary .skilify-info-point-img img {
+.info-point-primary .pixera-info-point-img img {
   background-color: #F56962;
 }
 
@@ -1240,10 +1240,10 @@ button {
   .teacher-profile-banner {
     padding-bottom: 50px;
   }
-  .skilify-info-sec {
+  .pixera-info-sec {
     padding: 0;
   }
-  .skilify-info-points {
+  .pixera-info-points {
     top: -50px;
   }
   /** spacing Classes Css End **/
@@ -1371,11 +1371,11 @@ button {
   }
   /** Common section CSS End  **/
   /** Home v3 Css Start **/
-  .skilify-info-point img {
+  .pixera-info-point img {
     height: 35px;
     width: 35px;
   }
-  .skilify-info-point .card-title {
+  .pixera-info-point .card-title {
     font-size: 18px;
   }
   /** Home v3 Css End **/
